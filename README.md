@@ -61,7 +61,7 @@ python app.py
 Then, open a web browser and navigate to `http://0.0.0.0:5000/` to access the application.
 
 ## User Interface
-![Frontend View](frontend.png)
+![Frontend View](frontend.PNG)
 
 ## API Endpoints
 
